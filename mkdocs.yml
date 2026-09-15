@@ -1,0 +1,18 @@
+site_name: cwz8008test
+repo_url: https://github.com/vibangonzales/cwz8008test
+nav: 
+  - 1 Front Matter:
+    - Title Page: index.md
+    - Abbreviations: Abbreviations.md
+  - 2 ConOps:
+    - 2.5 Needs:
+      - 2.5.1 Architectural Needs: syseng/needs/architecturalneeds.md
+      - 2.5.2 Data Exchange Needs: syseng/needs/dataexchangeneeds.md
+  - 3 System Requirements:
+    - 3.7.21 Enumeration of MarkedLocationType: syseng/requirements/enumerationofMarkedLocationType.md
+  - 4 Traceability:
+    - PRL: syseng/traceability/prl.md
+    - RTM: syseng/traceability/rtm.md
+  - 5 Schemas:
+    - DeviceFeed: https://raw.githubusercontent.com/vibangonzales/cwz8008test/refs/heads/main/schemas/1.1-draft/DeviceFeed.json?token=GHSAT0AAAAAAEH66S5CN4L6WPOL5DDIUCB42VJOU2Q
+theme: readthedocs
